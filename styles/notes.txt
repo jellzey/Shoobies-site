@@ -1,0 +1,14 @@
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Playfair+Display|Roboto" rel="stylesheet">
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'IBM Plex Mono', monospace;
+
+colors:
+
+#98EAEB
+#E00A0A
+
+Shoobie Blue:
+
+#0aa4cb
