@@ -4,11 +4,26 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Playfair Display', serif;
 font-family: 'IBM Plex Mono', monospace;
 
-colors:
+Shoobie Colors:
+ 
+Blue: #0aa4cb
 
-#98EAEB
-#E00A0A
+Yellow: #ffdc0e
 
-Shoobie Blue:
+Red: #dd0f11
 
-#0aa4cb
+Black: #282828
+
+Dates:
+
+6/22 Blue Lagoon
+6/23 309 Laurel St. (SC)
+6/24 Crepe Place
+6/25 111 washington Dr. (Salinas) 
+6/28 SLO Do. Co. (SLO)
+6/29 Pour House (Oceanside)
+6/30 Black Plague Brewing (O’side)
+7/6 Vinyl Revolution
+7/17 Blue Lagoon
+8/18 West End Celebration
+8/25 Crepe Place
